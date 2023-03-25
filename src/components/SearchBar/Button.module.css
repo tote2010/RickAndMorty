@@ -1,0 +1,21 @@
+.searchdiv{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.input{
+    height: 40px;
+    border-color: white;
+    border-radius: 5px;
+}
+
+.button{
+    height: 40px;
+    margin-left: 30px;
+    color:white;
+    background-color: rgb(3, 216, 3);
+    border-color: rgb(3, 216, 3);
+    font-size: 15px;
+    font-weight: bold;
+}
